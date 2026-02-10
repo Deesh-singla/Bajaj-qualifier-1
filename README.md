@@ -55,7 +55,7 @@ npm install
 
 Create .env:
 
-PORT=5000
+PORT=3000
 API_KEY=your_gemini_api_key
 
 
